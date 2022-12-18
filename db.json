@@ -32,7 +32,15 @@
             "title": "Title 3",
             "text": "Hello there again LOL",
             "timestamp": 1669565225,
-            "notebookId": 2
+            "notebookId": 1
+        },
+        {
+            "id": 4,
+            "uuid": "4cb274b2-e910-4183-8b20-5cc4431511d8",
+            "title": "Title 4",
+            "text": "TEST Hello there again LOL",
+            "timestamp": 1669565225,
+            "notebookId": 1
         }
     ]
 }
