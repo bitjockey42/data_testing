@@ -1,25 +1,38 @@
 {
+    "notebooks": [
+        {
+            "id": 1,
+            "title": "Notebook 1"
+        },
+        {
+            "id": 2,
+            "title": "Notebook 2"
+        }
+    ],
     "notes": [
         {
             "id": 1,
             "uuid": "ef11e85b-3e21-41d6-9fda-65d835901d29",
             "title": "Title 1",
             "text": "Hello there",
-            "timestamp": 1669565225
+            "timestamp": 1669565225,
+            "notebookId": 1
         },
         {
             "id": 2,
             "uuid": "9f2f4034-49e9-4368-a719-556ab258e68a",
             "title": "Title 2",
             "text": "Hello there again",
-            "timestamp": 1669565225
+            "timestamp": 1669565225,
+            "notebookId": 1
         },
         {
             "id": 3,
             "uuid": "4cb274b2-e910-4183-8b20-5cc4431511d8",
             "title": "Title 3",
             "text": "Hello there again LOL",
-            "timestamp": 1669565225
+            "timestamp": 1669565225,
+            "notebookId": 2
         }
     ]
 }
